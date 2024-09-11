@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0078D7&size=26&center=true&vCenter=true&width=850&lines=🚀+ASP.NET+Core+and+Web+API;🐳+Containerization+with+Docker;🛠️+Software+Architecture;🔄+CI/CD+Pipeline;📦+Microservice+Architecture;📡+Event-Driven+Architecture;⚡+Caching+Mechanisms;💻+Mastering+.NET+Technologies;📐+Design+Patterns+and+Best+Practices;📚+Domain-Driven+Design+Enthusiast;🎯+Committed+to+Continuous+Learning;📈+Scrum+and+Agile+Methodologies" />
 </p>
 
-<p align="center">
+<p align="left">
   🔭 I am currently dedicated to working on <a href="https://github.com/savchenkoaddev/TraffiLearn.WebApi"><strong>TraffiLearn</strong></a>, a project aimed at advancing traffic rules education.<br>
   🌱 I am actively exploring and deepening my knowledge in <strong>.NET, Microservices, Domain-Driven Design (DDD), Scrum, CI/CD, and Software Architecture and other</strong>. My focus is on leveraging these technologies and methodologies to create scalable and robust solutions.<br>
   💬 Feel free to reach out to me if you want to discuss or learn more about <strong>Domain-Driven Design (DDD)</strong>, <strong>Software Architecture</strong>, or related topics. I am always eager to engage in insightful discussions and knowledge sharing.<br>
@@ -74,5 +74,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=savchenkoaddev&" alt="savchenkoaddev's streak stats" style="display: inline-block;" />
 </p>
 
-
-![snake gif](https://github.com/savchenkoaddev/savchenkoaddev/blob/output/github-contribution-grid-snake.svg)
