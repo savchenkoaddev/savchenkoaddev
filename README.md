@@ -74,3 +74,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=savchenkoaddev&" alt="savchenkoaddev's streak stats" style="display: inline-block;" />
 </p>
 
+![snake gif](https://github.com/savchenkoaddev/savchenkoaddev/blob/output/github-contribution-grid-snake.gif)
