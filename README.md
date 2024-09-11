@@ -67,11 +67,9 @@
 </p>
 
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=savchenkoaddev&show_icons=true&locale=en" alt="savchenkoaddev's GitHub stats" style="display: inline-block; margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=savchenkoaddev&" alt="savchenkoaddev's streak stats" style="display: inline-block;" />
 </p>
 
-![snake gif](https://github.com/savchenkoaddev/savchenkoaddev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/savchenkoaddev/savchenkoaddev/blob/output/github-contribution-grid-snake.svg)
